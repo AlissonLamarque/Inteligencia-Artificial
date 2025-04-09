@@ -1,2 +1,2 @@
-# Intelig-ncia-Artificial
+# Inteligência-Artificial
 Repositório destinado a disciplina de Inteligência Artificial
